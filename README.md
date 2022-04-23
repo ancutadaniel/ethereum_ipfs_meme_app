@@ -6,7 +6,8 @@ You can clone this project from here - https://github.com/ancutadaniel/ethereum_
 Available Scripts
 In the project directory, you can run in terminal:
 
-npm install
+### npm install
+
 1 - Install all dependencies for this project
 
 2 - Check and start the Ganache Blockchain locally
@@ -17,17 +18,22 @@ npm install
 
 5 - After you install dependencies and prepare Ganache and Metamask you can run:
 
-truffle compile && truffle migrate --reset
+### truffle compile && truffle migrate --reset
+
 6 - Run test to see that everything is ok
 
-truffle test
+### truffle test
+
 7 - You can check other information on console
 
-truffle console
+### truffle console
+
 8 - You can start the app locally running:
 
-npm start
+### npm start
+
 Runs the app in the development mode.
+
 Open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
